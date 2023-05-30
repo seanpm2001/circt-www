@@ -1,0 +1,52 @@
+<map id="/home/runner/work/circt&#45;www/circt&#45;www/circt_src/lib/Dialect/FIRRTL/Transforms/PrefixModules.cpp" name="/home/runner/work/circt&#45;www/circt&#45;www/circt_src/lib/Dialect/FIRRTL/Transforms/PrefixModules.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1868,5,2084,76"/>
+<area shape="rect" id="node2" href="$FIRRTL_2Transforms_2PassDetails_8h.html" title=" " alt="" coords="2013,131,2123,158"/>
+<area shape="rect" id="node3" href="$FIRRTLOps_8h.html" title=" " alt="" coords="1790,303,1938,344"/>
+<area shape="rect" id="node6" href="$LLVM_8h.html" title=" " alt="" coords="181,578,336,605"/>
+<area shape="rect" id="node12" href="$FIRRTLAnnotations_8h.html" title=" " alt="" coords="881,481,1042,523"/>
+<area shape="rect" id="node15" href="$HWAttributes_8h.html" title=" " alt="" coords="2249,660,2479,687"/>
+<area shape="rect" id="node32" href="$Dialect_2FIRRTL_2Passes_8h.html" title=" " alt="" coords="2165,213,2313,255"/>
+<area shape="rect" id="node38" href="$AnnotationDetails_8h.html" title=" " alt="" coords="144,213,299,255"/>
+<area shape="rect" id="node39" href="$FIRRTLInstanceGraph_8h.html" title=" " alt="" coords="1256,124,1432,165"/>
+<area shape="rect" id="node45" href="$NLATable_8h.html" title=" " alt="" coords="739,213,887,255"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2198,131,2418,158"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2442,131,2609,158"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2633,131,2842,158"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2866,131,3030,158"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2014,310,2141,337"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2165,303,2313,344"/>
+<area shape="rect" id="node4" href="$FIRRTLDialect_8h.html" title=" " alt="" coords="687,392,835,433"/>
+<area shape="rect" id="node11" href="$FIRRTLOpInterfaces_8h.html" title=" " alt="" coords="2372,392,2537,433"/>
+<area shape="rect" id="node19" href="$HWOpInterfaces_8h.html" title=" " alt="" coords="1849,489,2098,515"/>
+<area shape="rect" id="node20" href="$InnerSymbolTable_8h.html" title=" " alt="" coords="2223,571,2436,612"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2053,660,2217,687"/>
+<area shape="rect" id="node22" href="$HWTypes_8h.html" title=" " alt="" coords="359,399,561,426"/>
+<area shape="rect" id="node23" href="$SeqAttributes_8h.html" title=" " alt="" coords="2561,660,2793,687"/>
+<area shape="rect" id="node24" href="$FieldRef_8h.html" title=" " alt="" coords="297,489,469,515"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2613,399,2747,426"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1375,399,1577,426"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1601,399,1804,426"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1828,399,2041,426"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2065,392,2247,433"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1164,392,1351,433"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2771,392,2919,433"/>
+<area shape="rect" id="node5" href="$HWDialect_8h.html" title=" " alt="" coords="543,489,755,515"/>
+<area shape="rect" id="node9" title=" " alt="" coords="783,742,969,769"/>
+<area shape="rect" id="node10" title=" " alt="" coords="661,578,787,605"/>
+<area shape="rect" id="node7" title=" " alt="" coords="284,660,436,687"/>
+<area shape="rect" id="node8" title=" " alt="" coords="55,660,260,687"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2514,742,2659,769"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1119,578,1281,605"/>
+<area shape="rect" id="node14" title=" " alt="" coords="913,571,1095,612"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2045,735,2213,776"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2238,742,2490,769"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2337,310,2516,337"/>
+<area shape="rect" id="node35" title=" " alt="" coords="2540,310,2617,337"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2641,310,2716,337"/>
+<area shape="rect" id="node40" href="$InstanceGraphBase_8h.html" title=" " alt="" coords="1029,213,1216,255"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1258,310,1430,337"/>
+<area shape="rect" id="node43" title=" " alt="" coords="741,310,886,337"/>
+<area shape="rect" id="node41" href="$HWOps_8h.html" title=" " alt="" coords="1506,310,1697,337"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1011,310,1234,337"/>
+<area shape="rect" id="node46" title=" " alt="" coords="474,310,665,337"/>
+</map>

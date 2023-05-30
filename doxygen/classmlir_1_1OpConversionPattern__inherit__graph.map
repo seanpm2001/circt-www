@@ -1,0 +1,19 @@
+<map id="mlir::OpConversionPattern&lt; SourceOp &gt;" name="mlir::OpConversionPattern&lt; SourceOp &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,267,199,308"/>
+<area shape="rect" id="node2" href="$structcirct_1_1msft_1_1RemoveOpLowering.html" title="Generic pattern for removing an op during pattern conversion." alt="" coords="385,5,612,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,71,595,112"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,136,595,177"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,201,595,243"/>
+<area shape="rect" id="node8" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,267,595,308"/>
+<area shape="rect" id="node10" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,332,595,373"/>
+<area shape="rect" id="node12" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,397,595,439"/>
+<area shape="rect" id="node14" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,463,595,504"/>
+<area shape="rect" id="node16" href="$classmlir_1_1OpConversionPattern.html" title=" " alt="" coords="402,528,595,569"/>
+<area shape="rect" id="node5" href="$structConvertComponentOp.html" title="ConversionPatterns." alt="" coords="661,143,828,170"/>
+<area shape="rect" id="node7" href="$structConvertAssignOp.html" title=" " alt="" coords="677,209,812,235"/>
+<area shape="rect" id="node9" href="$structConvertWiresOp.html" title=" " alt="" coords="681,274,809,301"/>
+<area shape="rect" id="node11" href="$structConvertControlOp.html" title=" " alt="" coords="675,339,814,366"/>
+<area shape="rect" id="node13" href="$classAffineStoreLowering.html" title="Apply the affine map from an &#39;affine.store&#39; operation to its operands, and feed the results to a newl..." alt="" coords="668,405,821,431"/>
+<area shape="rect" id="node15" href="$structIfOpHoisting.html" title="Helper to hoist computation out of scf::IfOp branches, turning it into a mux&#45;like operation,..." alt="" coords="693,470,796,497"/>
+<area shape="rect" id="node17" href="$classAffineLoadLowering.html" title="Apply the affine map from an &#39;affine.load&#39; operation to its operands, and feed the results to a newly..." alt="" coords="669,535,820,562"/>
+</map>

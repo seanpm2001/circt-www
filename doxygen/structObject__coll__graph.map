@@ -1,0 +1,5 @@
+<map id="Object" name="Object">
+<area shape="rect" id="node1" title="Provides an Object class by simply wrapping the OMObject CAPI." alt="" coords="17,184,81,211"/>
+<area shape="rect" id="node2" href="$structOMObject.html" title="A value type for use in C APIs that just wraps a pointer to an Object." alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="18,5,79,32"/>
+</map>

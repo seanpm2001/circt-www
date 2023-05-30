@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcirct_1_1pretty_1_1Token.html" title=" " alt="" coords="5,166,147,193"/>
+<area shape="rect" id="node2" href="$structcirct_1_1pretty_1_1TokenBase.html" title=" " alt="" coords="195,5,421,47"/>
+<area shape="rect" id="node4" href="$structcirct_1_1pretty_1_1TokenBase.html" title=" " alt="" coords="211,71,405,127"/>
+<area shape="rect" id="node6" href="$structcirct_1_1pretty_1_1TokenBase.html" title=" " alt="" coords="211,151,405,207"/>
+<area shape="rect" id="node8" href="$structcirct_1_1pretty_1_1TokenBase.html" title=" " alt="" coords="211,231,405,287"/>
+<area shape="rect" id="node10" href="$structcirct_1_1pretty_1_1TokenBase.html" title="Helper class to CRTP&#45;derive common functions." alt="" coords="209,312,407,353"/>
+<area shape="rect" id="node3" href="$structcirct_1_1pretty_1_1EndToken.html" title=" " alt="" coords="476,13,641,39"/>
+<area shape="rect" id="node5" href="$structcirct_1_1pretty_1_1BreakToken.html" title=" " alt="" coords="469,86,648,113"/>
+<area shape="rect" id="node7" href="$structcirct_1_1pretty_1_1StringToken.html" title="Token types." alt="" coords="469,166,648,193"/>
+<area shape="rect" id="node9" href="$structcirct_1_1pretty_1_1BeginToken.html" title=" " alt="" coords="469,246,648,273"/>
+</map>

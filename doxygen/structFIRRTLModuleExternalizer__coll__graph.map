@@ -1,0 +1,14 @@
+<map id="FIRRTLModuleExternalizer" name="FIRRTLModuleExternalizer">
+<area shape="rect" id="node1" title="A sample reduction pattern that maps firrtl.module to firrtl.extmodule." alt="" coords="1291,121,1483,148"/>
+<area shape="rect" id="node2" href="$structcirct_1_1OpReduction.html" title=" " alt="" coords="993,29,1155,70"/>
+<area shape="rect" id="node3" href="$structcirct_1_1Reduction.html" title="An abstract reduction pattern." alt="" coords="428,7,551,33"/>
+<area shape="rect" id="node5" href="$structcirct_1_1OpReduction.html" title=" " alt="" coords="630,29,771,70"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,7,220,33"/>
+<area shape="rect" id="node6" href="$structNLARemover.html" title="A tracker for track NLAs affected by a reduction." alt="" coords="1020,95,1128,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="613,95,789,121"/>
+<area shape="rect" id="node8" href="$classcirct_1_1SymbolCache.html" title="Default symbol cache implementation; stores associations between names (StringAttr&#39;s) to mlir::Operat..." alt="" coords="1001,145,1147,172"/>
+<area shape="rect" id="node9" href="$classcirct_1_1SymbolCacheBase.html" title="Base symbol cache class to allow for cache lookup through a pointer to some abstract cache." alt="" coords="611,145,790,172"/>
+<area shape="rect" id="node10" title=" " alt="" coords="600,197,801,238"/>
+<area shape="rect" id="node11" href="$structModuleSizeCache.html" title="Utility to track the transitive size of modules." alt="" coords="1005,232,1143,259"/>
+<area shape="rect" id="node12" title=" " alt="" coords="615,262,786,303"/>
+</map>

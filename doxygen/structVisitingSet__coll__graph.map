@@ -1,0 +1,7 @@
+<map id="VisitingSet" name="VisitingSet">
+<area shape="rect" id="node1" title="A value is in VisitingSet if its subtree is still being traversed." alt="" coords="172,213,264,240"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,199,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="52,5,152,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="223,117,447,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="290,5,381,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="circt::esi::capnp::CapnpTypeSchema" name="circt::esi::capnp::CapnpTypeSchema">
+<area shape="rect" id="node1" title="Generate and reason about a Cap&#39;nProto schema for a particular MLIR type." alt="" coords="807,153,952,194"/>
+<area shape="rect" id="node2" href="$classcirct_1_1esi_1_1ESIAPIType.html" title=" " alt="" coords="486,95,642,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="89,5,141,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="86,56,145,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,107,209,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="36,157,195,184"/>
+<area shape="rect" id="node7" title=" " alt="" coords="469,145,659,201"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallDenseMap.html" title=" " alt="" coords="461,226,667,267"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallDenseMap.html" title=" " alt="" coords="5,219,225,275"/>
+</map>

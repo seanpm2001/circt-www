@@ -1,0 +1,24 @@
+<map id="circt::ExportVerilog::SharedEmitterState" name="circt::ExportVerilog::SharedEmitterState">
+<area shape="rect" id="node1" title="This class tracks the top&#45;level state for the emitters, which is built and then shared across all per..." alt="" coords="1233,341,1391,382"/>
+<area shape="rect" id="node2" href="$structcirct_1_1ExportVerilog_1_1GlobalNameTable.html" title="This class keeps track of global names at the module/interface level." alt="" coords="848,63,993,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="331,5,553,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="10,39,101,65"/>
+<area shape="rect" id="node5" title=" " alt="" coords="353,56,531,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="599,129,777,170"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,309,105,336"/>
+<area shape="rect" id="node20" title=" " alt="" coords="331,763,553,805"/>
+<area shape="rect" id="node8" title=" " alt="" coords="877,197,965,224"/>
+<area shape="rect" id="node9" title=" " alt="" coords="830,249,1011,290"/>
+<area shape="rect" id="node10" href="$classcirct_1_1hw_1_1HWSymbolCache.html" title="This stores lookup tables to make manipulating and working with the IR more efficient." alt="" coords="823,315,1019,341"/>
+<area shape="rect" id="node11" href="$classcirct_1_1SymbolCacheBase.html" title="Base symbol cache class to allow for cache lookup through a pointer to some abstract cache." alt="" coords="353,187,531,213"/>
+<area shape="rect" id="node12" title=" " alt="" coords="417,473,467,500"/>
+<area shape="rect" id="node15" href="$structcirct_1_1LoweringOptions.html" title="Options which control the emission from CIRCT to Verilog." alt="" coords="837,463,1004,489"/>
+<area shape="rect" id="node19" href="$structcirct_1_1ExportVerilog_1_1FileInfo.html" title="Information to control the emission of a list of operations into a file." alt="" coords="848,565,993,606"/>
+<area shape="rect" id="node13" title=" " alt="" coords="341,237,543,293"/>
+<area shape="rect" id="node14" title=" " alt="" coords="835,365,1007,421"/>
+<area shape="rect" id="node16" title=" " alt="" coords="401,661,483,688"/>
+<area shape="rect" id="node17" title=" " alt="" coords="375,712,509,739"/>
+<area shape="rect" id="node18" title=" " alt="" coords="858,513,983,540"/>
+<area shape="rect" id="node21" title=" " alt="" coords="832,730,1009,771"/>
+<area shape="rect" id="node22" title=" " alt="" coords="393,829,491,856"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="circt::hw::InstancePathCache" name="circt::hw::InstancePathCache">
+<area shape="rect" id="node1" title="A data structure that caches and provides absolute paths to module instances in the IR." alt="" coords="867,214,1073,241"/>
+<area shape="rect" id="node2" href="$classcirct_1_1hw_1_1InstanceGraphBase.html" title="This graph tracks modules and where they are instantiated." alt="" coords="464,130,675,157"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,71,233,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="21,123,232,164"/>
+<area shape="rect" id="node6" title=" " alt="" coords="83,189,170,215"/>
+<area shape="rect" id="node7" title=" " alt="" coords="456,207,683,248"/>
+<area shape="rect" id="node8" title=" " alt="" coords="81,243,172,270"/>
+<area shape="rect" id="node9" title=" " alt="" coords="501,273,637,299"/>
+</map>

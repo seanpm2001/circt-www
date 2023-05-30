@@ -1,0 +1,16 @@
+<map id="circt::pretty::Token" name="circt::pretty::Token">
+<area shape="rect" id="node1" title=" " alt="" coords="661,177,803,204"/>
+<area shape="rect" id="node2" title=" " alt="" coords="411,23,541,49"/>
+<area shape="rect" id="node3" href="$structcirct_1_1pretty_1_1Token_1_1BeginInfo.html" title=" " alt="" coords="405,391,547,433"/>
+<area shape="rect" id="node4" href="$structcirct_1_1pretty_1_1Token_1_1TokenInfo.html" title=" " alt="" coords="137,199,279,241"/>
+<area shape="rect" id="node9" href="$structcirct_1_1pretty_1_1Token_1_1EndInfo.html" title=" " alt="" coords="405,139,547,181"/>
+<area shape="rect" id="node10" href="$structcirct_1_1pretty_1_1Token_1_1StringInfo.html" title=" " alt="" coords="405,74,547,115"/>
+<area shape="rect" id="node13" href="$structcirct_1_1pretty_1_1Token_1_1BreakInfo.html" title=" " alt="" coords="405,269,547,310"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,207,56,233"/>
+<area shape="rect" id="node6" title=" " alt="" coords="175,495,241,521"/>
+<area shape="rect" id="node7" title=" " alt="" coords="160,444,256,471"/>
+<area shape="rect" id="node8" title=" " alt="" coords="175,376,241,403"/>
+<area shape="rect" id="node11" title=" " alt="" coords="183,5,233,32"/>
+<area shape="rect" id="node12" title=" " alt="" coords="171,76,245,103"/>
+<area shape="rect" id="node14" title=" " alt="" coords="183,308,233,335"/>
+</map>

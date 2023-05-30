@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmlir_1_1Type_1_1TypeBase.html" title=" " alt="" coords="5,46,161,73"/>
+<area shape="rect" id="node2" href="$classcirct_1_1hw_1_1TypeAliasOr.html" title=" " alt="" coords="209,5,371,47"/>
+<area shape="rect" id="node3" href="$classcirct_1_1hw_1_1TypeVariant.html" title="Utility type that wraps a type that may be one of several possible Types." alt="" coords="210,71,370,112"/>
+</map>

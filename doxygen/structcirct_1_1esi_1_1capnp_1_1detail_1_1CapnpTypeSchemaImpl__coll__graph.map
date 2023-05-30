@@ -1,0 +1,15 @@
+<map id="circt::esi::capnp::detail::CapnpTypeSchemaImpl" name="circt::esi::capnp::detail::CapnpTypeSchemaImpl">
+<area shape="rect" id="node1" title="Actual implementation of CapnpTypeSchema to keep all the details out of the header." alt="" coords="1085,74,1304,115"/>
+<area shape="rect" id="node2" title=" " alt="" coords="821,5,938,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="823,56,935,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="822,107,937,133"/>
+<area shape="rect" id="node5" href="$classcirct_1_1esi_1_1capnp_1_1CapnpTypeSchema.html" title="Generate and reason about a Cap&#39;nProto schema for a particular MLIR type." alt="" coords="807,158,952,199"/>
+<area shape="rect" id="node6" href="$classcirct_1_1esi_1_1ESIAPIType.html" title=" " alt="" coords="486,100,642,127"/>
+<area shape="rect" id="node7" title=" " alt="" coords="89,11,141,37"/>
+<area shape="rect" id="node8" title=" " alt="" coords="86,61,145,88"/>
+<area shape="rect" id="node9" title=" " alt="" coords="22,112,209,139"/>
+<area shape="rect" id="node10" title=" " alt="" coords="36,163,195,189"/>
+<area shape="rect" id="node11" title=" " alt="" coords="469,151,659,207"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallDenseMap.html" title=" " alt="" coords="461,231,667,273"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallDenseMap.html" title=" " alt="" coords="5,224,225,280"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="circt::pretty::PrettyPrinter::FormattedToken" name="circt::pretty::PrettyPrinter::FormattedToken">
+<area shape="rect" id="node1" title="Format token with tracked size." alt="" coords="892,418,1079,459"/>
+<area shape="rect" id="node2" href="$classcirct_1_1pretty_1_1Token.html" title=" " alt="" coords="661,253,803,280"/>
+<area shape="rect" id="node3" title=" " alt="" coords="411,195,541,221"/>
+<area shape="rect" id="node4" href="$structcirct_1_1pretty_1_1Token_1_1BeginInfo.html" title=" " alt="" coords="405,66,547,107"/>
+<area shape="rect" id="node5" href="$structcirct_1_1pretty_1_1Token_1_1TokenInfo.html" title=" " alt="" coords="137,162,279,203"/>
+<area shape="rect" id="node10" href="$structcirct_1_1pretty_1_1Token_1_1EndInfo.html" title=" " alt="" coords="405,246,547,287"/>
+<area shape="rect" id="node11" href="$structcirct_1_1pretty_1_1Token_1_1StringInfo.html" title=" " alt="" coords="405,311,547,353"/>
+<area shape="rect" id="node14" href="$structcirct_1_1pretty_1_1Token_1_1BreakInfo.html" title=" " alt="" coords="405,377,547,418"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,169,56,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="175,56,241,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="160,5,256,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="175,452,241,479"/>
+<area shape="rect" id="node12" title=" " alt="" coords="183,271,233,297"/>
+<area shape="rect" id="node13" title=" " alt="" coords="171,341,245,368"/>
+<area shape="rect" id="node15" title=" " alt="" coords="183,531,233,557"/>
+</map>

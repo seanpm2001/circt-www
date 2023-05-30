@@ -1,0 +1,6 @@
+<map id="OMObjectValue" name="OMObjectValue">
+<area shape="rect" id="node1" title="A value type for use in C APIs that represents an ObjectValue." alt="" coords="43,184,165,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,109,121"/>
+<area shape="rect" id="node3" href="$structOMObject.html" title="A value type for use in C APIs that just wraps a pointer to an Object." alt="" coords="134,95,221,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="147,5,208,32"/>
+</map>

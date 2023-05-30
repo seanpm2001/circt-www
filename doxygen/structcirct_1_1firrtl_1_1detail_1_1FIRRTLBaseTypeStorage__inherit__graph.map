@@ -1,0 +1,8 @@
+<map id="circt::firrtl::detail::FIRRTLBaseTypeStorage" name="circt::firrtl::detail::FIRRTLBaseTypeStorage">
+<area shape="rect" id="node1" title=" " alt="" coords="189,104,376,145"/>
+<area shape="rect" id="node3" href="$structcirct_1_1firrtl_1_1detail_1_1BundleTypeStorage.html" title=" " alt="" coords="426,5,581,47"/>
+<area shape="rect" id="node4" href="$structcirct_1_1firrtl_1_1detail_1_1FEnumTypeStorage.html" title=" " alt="" coords="426,71,581,112"/>
+<area shape="rect" id="node5" href="$structcirct_1_1firrtl_1_1detail_1_1FVectorTypeStorage.html" title=" " alt="" coords="424,136,583,177"/>
+<area shape="rect" id="node6" href="$structcirct_1_1firrtl_1_1detail_1_1WidthTypeStorage.html" title=" " alt="" coords="429,201,577,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,111,141,138"/>
+</map>

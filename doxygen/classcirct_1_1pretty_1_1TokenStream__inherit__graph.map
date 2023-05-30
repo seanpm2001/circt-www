@@ -1,0 +1,5 @@
+<map id="circt::pretty::TokenStream&lt; PPTy &gt;" name="circt::pretty::TokenStream&lt; PPTy &gt;">
+<area shape="rect" id="node1" title="Wrap a PrettyPrinter with TokenBuilder features as well as operator&lt;&lt;&#39;s." alt="" coords="5,200,193,241"/>
+<area shape="rect" id="node2" href="$classcirct_1_1pretty_1_1TokenBuilder.html" title=" " alt="" coords="6,109,193,151"/>
+<area shape="rect" id="node3" href="$classcirct_1_1pretty_1_1TokenBuilder.html" title="Add convenience methods for generating pretty&#45;printing tokens." alt="" coords="6,5,193,47"/>
+</map>

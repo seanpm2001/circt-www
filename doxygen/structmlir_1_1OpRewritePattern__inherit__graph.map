@@ -1,0 +1,49 @@
+<map id="mlir::OpRewritePattern&lt; SourceOp &gt;" name="mlir::OpRewritePattern&lt; SourceOp &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1052,176,1093"/>
+<area shape="rect" id="node2" href="$classcirct_1_1calyx_1_1PartialLoweringPattern.html" title=" " alt="" coords="974,441,1177,483"/>
+<area shape="rect" id="node4" href="$classcirct_1_1calyx_1_1PartialLoweringPattern.html" title=" " alt="" coords="967,515,1183,556"/>
+<area shape="rect" id="node23" href="$classcirct_1_1calyx_1_1PartialLoweringPattern.html" title="Base class for partial lowering passes." alt="" coords="399,532,679,573"/>
+<area shape="rect" id="node26" href="$classcirct_1_1dc_1_1EliminateBranchToSelectPattern.html" title=" " alt="" coords="433,677,644,719"/>
+<area shape="rect" id="node27" href="$classcirct_1_1dc_1_1EliminateForkOfSourcePattern.html" title=" " alt="" coords="437,743,640,784"/>
+<area shape="rect" id="node28" href="$classcirct_1_1dc_1_1EliminateForkToForkPattern.html" title=" " alt="" coords="445,808,632,849"/>
+<area shape="rect" id="node29" href="$structcirct_1_1dc_1_1EliminateRedundantUnpackPattern.html" title=" " alt="" coords="431,873,646,915"/>
+<area shape="rect" id="node30" href="$classcirct_1_1scftocalyx_1_1InlineExecuteRegionOpPattern.html" title="Inlines Calyx ExecuteRegionOp operations within their parent blocks." alt="" coords="429,939,648,995"/>
+<area shape="rect" id="node31" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="443,1020,635,1061"/>
+<area shape="rect" id="node32" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="443,1085,634,1127"/>
+<area shape="rect" id="node34" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="445,1151,632,1192"/>
+<area shape="rect" id="node36" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1216,624,1257"/>
+<area shape="rect" id="node37" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1281,624,1323"/>
+<area shape="rect" id="node39" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1347,624,1388"/>
+<area shape="rect" id="node40" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1412,624,1453"/>
+<area shape="rect" id="node44" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1477,624,1519"/>
+<area shape="rect" id="node45" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1543,624,1584"/>
+<area shape="rect" id="node47" href="$structmlir_1_1OpRewritePattern.html" title=" " alt="" coords="453,1608,624,1649"/>
+<area shape="rect" id="node3" href="$classcirct_1_1calyx_1_1RewriteMemoryAccesses.html" title="This pass rewrites memory accesses that have a width mismatch." alt="" coords="1248,441,1453,483"/>
+<area shape="rect" id="node5" href="$classcirct_1_1calyx_1_1FuncOpPartialLoweringPattern.html" title="FuncOpPartialLoweringPatterns are patterns which intend to match on FuncOps and then perform their ow..." alt="" coords="1255,515,1446,556"/>
+<area shape="rect" id="node6" href="$classcirct_1_1calyx_1_1BuildBasicBlockRegs.html" title="Builds registers for each block argument in the program." alt="" coords="1523,5,1692,47"/>
+<area shape="rect" id="node7" href="$classcirct_1_1calyx_1_1BuildReturnRegs.html" title="Builds registers for the return statement of the program and constant assignments to the component re..." alt="" coords="1503,71,1712,98"/>
+<area shape="rect" id="node8" href="$classcirct_1_1calyx_1_1ConvertIndexTypes.html" title="Converts all index&#45;typed operations and values to i32 values." alt="" coords="1513,123,1701,164"/>
+<area shape="rect" id="node9" href="$classcirct_1_1pipelinetocalyx_1_1BuildControl.html" title="Builds a control schedule by traversing the CFG of the function and associating this with the previou..." alt="" coords="1528,188,1687,229"/>
+<area shape="rect" id="node10" href="$classcirct_1_1pipelinetocalyx_1_1BuildOpGroups.html" title="Iterate through the operations of a source function and instantiate components or primitives based on..." alt="" coords="1528,253,1687,295"/>
+<area shape="rect" id="node11" href="$classcirct_1_1pipelinetocalyx_1_1BuildPipelineGroups.html" title="Builds groups for assigning registers for pipeline stages." alt="" coords="1527,319,1688,360"/>
+<area shape="rect" id="node12" href="$classcirct_1_1pipelinetocalyx_1_1BuildPipelineRegs.html" title="Builds registers for each pipeline stage in the program." alt="" coords="1528,384,1687,425"/>
+<area shape="rect" id="node13" href="$classcirct_1_1pipelinetocalyx_1_1BuildWhileGroups.html" title="In BuildWhileGroups, a register is created for each iteration argumenet of the while op." alt="" coords="1528,449,1687,491"/>
+<area shape="rect" id="node14" href="$classcirct_1_1pipelinetocalyx_1_1CleanupFuncOps.html" title="Erases FuncOp operations." alt="" coords="1528,515,1687,556"/>
+<area shape="rect" id="node15" href="$structcirct_1_1pipelinetocalyx_1_1FuncOpConversion.html" title="Creates a new Calyx component for each FuncOp in the program." alt="" coords="1528,580,1687,621"/>
+<area shape="rect" id="node16" href="$classcirct_1_1pipelinetocalyx_1_1LateSSAReplacement.html" title="LateSSAReplacement contains various functions for replacing SSA values that were not replaced during ..." alt="" coords="1522,645,1693,687"/>
+<area shape="rect" id="node17" href="$classcirct_1_1scftocalyx_1_1BuildControl.html" title="Builds a control schedule by traversing the CFG of the function and associating this with the previou..." alt="" coords="1541,711,1673,752"/>
+<area shape="rect" id="node18" href="$classcirct_1_1scftocalyx_1_1BuildOpGroups.html" title="Iterate through the operations of a source function and instantiate components or primitives based on..." alt="" coords="1541,776,1673,817"/>
+<area shape="rect" id="node19" href="$classcirct_1_1scftocalyx_1_1BuildWhileGroups.html" title="In BuildWhileGroups, a register is created for each iteration argumenet of the while op." alt="" coords="1538,841,1677,883"/>
+<area shape="rect" id="node20" href="$classcirct_1_1scftocalyx_1_1CleanupFuncOps.html" title="Erases FuncOp operations." alt="" coords="1541,907,1673,948"/>
+<area shape="rect" id="node21" href="$structcirct_1_1scftocalyx_1_1FuncOpConversion.html" title="Creates a new Calyx component for each FuncOp in the program." alt="" coords="1536,972,1679,1013"/>
+<area shape="rect" id="node22" href="$classcirct_1_1scftocalyx_1_1LateSSAReplacement.html" title="LateSSAReplacement contains various functions for replacing SSA values that were not replaced during ..." alt="" coords="1526,1037,1689,1079"/>
+<area shape="rect" id="node24" href="$classcirct_1_1calyx_1_1PartialLoweringPattern.html" title=" " alt="" coords="952,581,1199,637"/>
+<area shape="rect" id="node25" href="$classcirct_1_1calyx_1_1InlineCombGroups.html" title="This pass recursively inlines use&#45;def chains of combinational logic (from non&#45;stateful groups) into g..." alt="" coords="1263,588,1438,629"/>
+<area shape="rect" id="node33" href="$structcirct_1_1calyx_1_1EliminateUnusedCombGroups.html" title="Removes calyx::CombGroupOps which are unused." alt="" coords="969,1085,1181,1127"/>
+<area shape="rect" id="node35" href="$structcirct_1_1calyx_1_1NonTerminatingGroupDonePattern.html" title="GroupDoneOp&#39;s are terminator operations and should therefore be the last operator in a group." alt="" coords="973,1151,1177,1192"/>
+<area shape="rect" id="node38" href="$structCollapseUnaryControl.html" title="This pattern collapses a calyx.seq or calyx.par operation when it contains exactly one calyx...." alt="" coords="993,1281,1157,1323"/>
+<area shape="rect" id="node41" href="$structCommonTailPatternWithPar.html" title="if a with @G { par { par { if a with @G { ..." alt="" coords="976,1369,1175,1395"/>
+<area shape="rect" id="node42" href="$structCommonTailPatternWithSeq.html" title="seq { if a with @G { if a with @G { seq { ..." alt="" coords="974,1419,1177,1446"/>
+<area shape="rect" id="node43" href="$structEmptyIfBody.html" title="This pattern checks for one of two cases that will lead to IfOp deletion: (1) Then and Else bodies ar..." alt="" coords="1022,1470,1129,1497"/>
+<area shape="rect" id="node46" href="$structcirct_1_1calyx_1_1MultipleGroupDonePattern.html" title="When building groups which contain accesses to multiple sequential components, a group_done op is cre..." alt="" coords="979,1543,1172,1584"/>
+</map>
